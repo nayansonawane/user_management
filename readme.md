@@ -1,6 +1,6 @@
-/*----------------------------------------------------------------------------------------------------
-| THIS IS GUIDE FOR DEMO OF ADMIN PANEL
-------------------------------------------------------------------------------------------------------
+/*
+|THIS IS GUIDE FOR DEMO OF ADMIN PANEL
+*/
 
 Technology Used       : PHP
 Framework      	      : Laravel Framework(5.2)
@@ -21,12 +21,13 @@ Steps to run this web application:
 3) Go to the link "http://localhost/user_management/login".
 
 Note: Make sure that computers xampp/lampp services are on.
+      Also upadate composer to fulfil the dependancies for the project
 
 
 
-/*----------------------------------------------------------------------------------------------
+/*
 | Modules Done:
-----------------------------------------------------------------------------------------------*/
+*/
 
 
 1) Login Module
@@ -48,9 +49,9 @@ Security Concerns and permissions:
 2) Password is stored using laravel frameworks encryption.
 
 
-/*----------------------------------------------------------------------------------------------
+/*
 | You are able to view code in following folders / files.
-----------------------------------------------------------------------------------------------*/
+*/
 
 1) Routes :
 	
@@ -73,6 +74,6 @@ Security Concerns and permissions:
 	app/Http/Middleware/Admin   
 
 
-/*---------------------------------------------------------------------------------------------------
+/*
 | Thank you for reading :)
------------------------------------------------------------------------------------------------------*/
+*/
